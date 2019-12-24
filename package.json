@@ -1,0 +1,15 @@
+{
+  "name": "Website Screenshot tool",
+  "version": "1.0.0",
+  "description": "A cli tool that caputres the screenshot of the webite you desire",
+  "main": "index.js",
+  "author": "Harshil Agrawal (ghagrawal17@gmail.com)",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "transloadit": "^2.0.8"
+  },
+  "devDependencies": {
+    "readline-sync": "^1.4.10"
+  }
+}
